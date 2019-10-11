@@ -18,5 +18,5 @@ vi ~/PDB/PDBData/1ak4/count_1ak4
 A screenshot of my result:
 
 <p align="center">
-<img src="my result.png"title="My result"width="300">
+<img src="https://raw.githubusercontent.com/MIALAB-RUC/2019-fall-Bioinformatics-ML/master/homework/answer_1/my%20result.png"title="My result"width="300">
 </p>
